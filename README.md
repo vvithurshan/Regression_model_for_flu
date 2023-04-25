@@ -36,3 +36,7 @@
 | pyDock_vdw | van der Waals interaction energy calculated using the pyDock software. |
 | sticky_avg | Average contribution of all interaction energy terms. |
 | One_hot_encoded_protein_sequence | One Hot Encoded vector of protein sequence. |
+
+### Reference 
+Conti, S.; Lau, E.Y.; Ovchinnikov, V. On the Rapid Calculation of Binding Affinities for Antigen and Antibody Design and Affinity Maturation Simulations. Antibodies 2022, 11, 51. https://doi.org/10.3390/antib11030051 <br /> <br />
+https://github.com/SimoneCnt/ppdx
